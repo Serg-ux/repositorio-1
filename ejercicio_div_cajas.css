@@ -1,0 +1,38 @@
+
+div{
+    border: 3px solid black;
+}
+#contenedor{
+    height: 800px;
+    width: 800px;
+}
+
+h4{
+    border-bottom: 2px dashed black;
+    border-right: 2px dashed black;
+}
+#emoji1{
+    background-color: green;
+    height: 5cm;
+    width: 7cm;
+    background-image: url(escudo-Real-Betis-2012.jpg);
+    background-size: contain;
+}
+#emoji2{
+    background-color: blue;
+    height: 7cm;
+    width: 5cm;
+    background-image: url(niggato.jpg);
+    background-repeat:repeat-x;
+    background-size: contain;
+    background-position: top center ;
+}
+#emoji3{
+    background-color: purple;
+    height: 5cm;
+    width: 7cm;
+    background-image: url(smoke.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: top center ;
+}
